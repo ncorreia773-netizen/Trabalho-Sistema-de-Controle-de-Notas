@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include <string.h>
 
-#define MAX_ALUNOS 50
-#define MAX_NOME 50
+#define MAX_ALUNOS 100
+#define MAX_NOME 100
 
 int main() {
     // Vetores para armazenar os dados
